@@ -32,15 +32,15 @@
     
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
-    <link rel="stylesheet" href="/charlesll/assets/css/main.css">
-    <link rel="canonical" href="http://localhost:4000/charlesll/">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="http://localhost:4000/">
     
     <!-- Dark Mode -->
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark" />
 
-    <script src="/charlesll/assets/js/theme.js"></script>
-    <script src="/charlesll/assets/js/dark_mode.js"></script>
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
     
 
   </head>
@@ -68,36 +68,36 @@
 
               <!-- About -->
               <li class="nav-item active">
-                <a class="nav-link" href="/charlesll/">about<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/">about<span class="sr-only">(current)</span></a>
               </li>
               
               <!-- Blog -->
               <li class="nav-item ">
-                <a class="nav-link" href="/charlesll/blog/">blog</a>
+                <a class="nav-link" href="/blog/">blog</a>
               </li>
 
               <!-- Other pages -->
               <li class="nav-item ">
-                <a class="nav-link" href="/charlesll/publications/">publications</a>
+                <a class="nav-link" href="/publications/">publications</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/charlesll/projects/">projects</a>
+                <a class="nav-link" href="/projects/">projects</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/charlesll/repositories/">repositories</a>
+                <a class="nav-link" href="/repositories/">repositories</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/charlesll/cv/">cv</a>
+                <a class="nav-link" href="/cv/">cv</a>
               </li>
               <li class="nav-item ">
-                <a class="nav-link" href="/charlesll/teaching/">teaching</a>
+                <a class="nav-link" href="/teaching/">teaching</a>
               </li>
               <li class="nav-item dropdown ">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">submenus</a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="/charlesll/publications/">publications</a>
+                  <a class="dropdown-item" href="/publications/">publications</a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="/charlesll/projects/">projects</a>
+                  <a class="dropdown-item" href="/projects/">projects</a>
                 </div>
               </li>
 
@@ -132,13 +132,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/charlesll/assets/img/prof_pic-480.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/charlesll/assets/img/prof_pic-800.webp"></source>
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/charlesll/assets/img/prof_pic-1400.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/prof_pic-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/prof_pic-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/prof_pic-1400.webp"></source>
     
 
     <!-- Fallback to the original file -->
-    <img src="/charlesll/assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="prof_pic.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/prof_pic.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="prof_pic.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -151,9 +151,11 @@
           </div>
 
           <div class="clearfix">
-            <p>I am a geoscientist passionate about magmatism, volcanology, geochemistry, and machine learning. I started as a Master and Ph.D. student at IPGP, working on the properties of magmas. After my thesis, I was a PostDoctoral Fellow at the Geophysical Laboratory, Washington D.C. (U.S.A.), between 2013 and 2015, and a Research Fellow at the Australian National University, Research School of Earth Sciences, between 2015 and 2019. During those years, I was interested by many subjects related to volatile elements dissolved in materials, the properties of magmas, igneous petrology and geochemistry, and machine learning.</p>
+            <p>I am a geoscientist passionate about magmatism, volcanology, geochemistry, and machine learning.</p>
 
-<p>Since 2019, I work as a Maître de Conférences (Assistant Professor) at the IPGP in Paris on various topics related to volcanism, magmatism, geochemistry and material science. In addition to those themes, I also am interested in computer programming, optimisation and machine learning, and their use to solve problems related to volcanic systems and the Earth.</p>
+<p>Since 2019, I work as a Maître de Conférences (Assistant Professor) at IPGP in Paris, France, on various questions related to those themes.</p>
+
+<p>In addition to those, I also am interested in computer programming, optimisation and machine learning, and their use to solve problems related to volcanic systems and the Earth.</p>
 
           </div>
 
@@ -184,7 +186,93 @@
           <!-- Selected papers -->
           <div class="publications">
             <h2>selected publications</h2>
-            <ol class="bibliography"></ol>
+            <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">CRG</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Le Losq_Mysen_Cody_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Water solution mechanism in calcium aluminosilicate glasses and melts: insights from in and ex situ Raman and 29 NMR spectroscopy</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq, Bjorn O. Mysen, and George D. Cody</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Comptes Rendus. Géoscience</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Le</span> <span class="err">Losq_Mysen_Cody_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Water</span> <span class="err">solution</span> <span class="err">mechanism</span> <span class="err">in</span> <span class="err">calcium</span> <span class="err">aluminosilicate</span> <span class="err">glasses</span> <span class="err">and</span> <span class="err">melts:</span> <span class="err">insights</span> <span class="err">from</span> <span class="err">in</span> <span class="err">and</span> <span class="err">ex</span> <span class="err">situ</span> <span class="err">Raman</span> <span class="err">and</span> <span class="err">29</span> <span class="err">NMR</span> <span class="err">spectroscopy</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {354},</span>
+  <span class="c">issn = {1778-7025},</span>
+  <span class="c">doi = {10.5802/crgeos.127},</span>
+  <span class="c">number = {S1},</span>
+  <span class="c">journal = {Comptes Rendus. Géoscience},</span>
+  <span class="c">author = {Le Losq, C. and Mysen, Bjorn O. and Cody, George D.},</span>
+  <span class="c">year = {2022},</span>
+  <span class="c">pages = {1–27},</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le Losq_Baldoni_Valentine_Neuville_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Modeling the properties of melts along calc-alkaline and alkaline magmatic differentiation trends using deep learning</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq, B. Baldoni, A. P. Valentine, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'D. R. Neuville' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span>
+</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In </em> Dec 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+</ol>
           </div>
 
           <!-- Social -->
@@ -197,7 +285,7 @@
             <a href="https://twitter.com/charlesll" title="Twitter" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
             <a href="https://medium.com/@charles.lelosq" title="Medium" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium"></i></a>
             <a href="https://www.ipgp.fr" title="Work" target="_blank" rel="noopener noreferrer"><i class="fas fa-briefcase"></i></a>
-            <a href="/charlesll/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            <a href="/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             
 
             </div>
@@ -217,7 +305,7 @@
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
-        © Copyright 2022 Charles  Le Losq. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. #Photos from <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">Unsplash</a>.
+        © Copyright 2022 Charles  Le Losq. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
       </div>
     </footer>
@@ -233,12 +321,12 @@
     <!-- Masonry & imagesLoaded -->
   <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script defer src="/charlesll/assets/js/masonry.js" type="text/javascript"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
     
   <!-- Medium Zoom JS -->
   <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
-  <script defer src="/charlesll/assets/js/zoom.js"></script><!-- Load Common JS -->
-  <script defer src="/charlesll/assets/js/common.js"></script>
+  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script defer src="/assets/js/common.js"></script>
 
     <!-- MathJax -->
   <script type="text/javascript">
