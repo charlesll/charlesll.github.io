@@ -1,0 +1,1832 @@
+I"�<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Dalou_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Redox controls on H and N speciation and intermolecular isotopic fractionations in aqueous fluids at high pressure and high temperature: Insights from in-situ experiments</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Celia Dalou,&nbsp;Charles Le Losq,&nbsp;Evelyn FÃ¼ri, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Marie-Camille Caumon' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Frontiers in Earth Science</em> Aug 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Tarrago_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Redox-induced crystallisation in Ti-bearing glass-forming melts: A Ti K-edge XANES study</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Mariona Tarrago,&nbsp;Charles Le Losq,&nbsp;Thibaut Robine, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Solenn Reguer, Dominique Thiaudière, Daniel R. Neuville' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Materials Letters</em> Jul 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="B_nard_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Spinel Harzburgite-Derived Silicate Melts Forming Sulfide-Bearing Orthopyroxenite in the Lithosphere. Part 1: Partition Coefficients and Volatile Evolution Accompanying Fluid- and Redox-Induced Sulfide Formation</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          A. Bénard,&nbsp;C. Le Losq,&nbsp;O. MÃ¼ntener, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'M. Robyr, O. Nebel, R. J. Arculus, D. A. Ionov' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Frontiers in Earth Science</em> Jul 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_117620533" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Water solution mechanism in calcium aluminosilicate glasses and melts: insights from in and ex situ Raman and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msup><mml:mrow /> <mml:mn>29</mml:mn> </mml:msup><mml:mtext>Si</mml:mtext></mml:mrow></mml:math> NMR spectroscopy</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Charles Le Losq,&nbsp;Bjorn O. Mysen, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'George D. Cody' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Comptes Rendus. Géoscience</em> Jul 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Neuville_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Link between Medium and Long-range Order and Macroscopic Properties of Silicate Glasses and Melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Daniel R. Neuville,&nbsp;and&nbsp;Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Reviews in Mineralogy and Geochemistry</em> May 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_117619612" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Fractional crystallisation of eclogite during the birth of a Hawaiian Volcano</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Laura A. Miller,&nbsp;Hugh St. C. O’Neill, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Andrew J. Berry, Charles Le Losq' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Nature Communications</em> May 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Amalberti_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Raman spectroscopy to determine CO2 solubility in mafic silicate melts at high pressure: Haplobasaltic, haploandesitic and approach of basaltic compositions</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Julien Amalberti,&nbsp;Philippe Sarda,&nbsp;Charles Le Losq, and
+            <span class="more-authors" title="click to view 6 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '6 more authors' ? 'Nicolas Sator, Tahar Hammouda, Eva Chamorro-Pérez, Bertrand Guillot, Sylvie Le Floch, Daniel R. Neuville' : '6 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">6 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Chemical Geology</em> Nov 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Neuville_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">How to Measure the Oxidation State of Multivalent Elements in Minerals, Glasses, and Melts?</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Daniel R. Neuville,&nbsp;Maria Rita Cicconi,&nbsp;and&nbsp;Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            Sep 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Iron in Silicate Glasses and Melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Maria Rita Cicconi,&nbsp;and&nbsp;Daniel R. Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            Sep 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Cicconi_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">The Redox Behavior of Rare Earth Elements</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Maria Rita Cicconi,&nbsp;Charles Le Losq,&nbsp;Grant S. Henderson, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Daniel R. Neuville' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            Sep 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2022" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Structure and properties of alkali aluminosilicate glasses and melts: insights from deep learning</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Andrew Valentine,&nbsp;Bjorn O. Mysen, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Daniel R. Neuville' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochimica et Cosmochimica Acta</em> Aug 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Jollands_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A combined Fourier transform infrared and Cr K-edge X-ray absorption near-edge structure spectroscopy study of the substitution and diffusion of H in Cr-doped forsterite</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Michael C. Jollands,&nbsp;Hugh St.C. O’Neill,&nbsp;Andrew J. Berry, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Charles Le Losq, Camille Rivard, JÃ¶rg Hermann' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>European Journal of Mineralogy</em> Feb 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Valetich_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Compositions and Classification of Fractionated Boninite Series Melts from the Izu–Bonin–Mariana Arc: A Machine Learning Approach</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Matthew J Valetich,&nbsp;Charles Le Losq,&nbsp;Richard J Arculus, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Susumu Umino, John Mavrogenes' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Petrology</em> Feb 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_92685497" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Quantifying dynamic pressure and temperature conditions on fault asperities during earthquake slip</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Kathryn S. Hayward,&nbsp;Charles Le Losq, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Stephen F. Cox' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Earth and Planetary Science Letters</em> Feb 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Anenburg_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Iron cation vacancies in Pt(iv)-doped hematite</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Michael Anenburg,&nbsp;Jeremy L. Wykes,&nbsp;Ulrike Troitzsch, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Charles Le Losq, Jeff Chen' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Materials Advances</em> Feb 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_92685576" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Revisiting water speciation in hydrous alumino-silicate glasses: A discrepancy between solid-state 1H NMR and NIR spectroscopy in the determination of X-OH and H2O</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;George D. Cody,&nbsp;Michael Ackerson, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Carolyn Beaumont, Dionysis Foustoukos, Charles Le Losq, Bjorn O. Mysen' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochimica et Cosmochimica Acta</em> Feb 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2020" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">In situ XANES study of the influence of varying temperature and oxygen fugacity on iron oxidation state and coordination in a phonolitic melt</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Roberto Moretti,&nbsp;Clive Oppenheimer, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'François Baudelet, Daniel R. Neuville' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Contributions to Mineralogy and Petrology</em> Jun 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2023" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Iron in silicate glasses and melts: implications for volcanological processes</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Maria Rita Cicconi,&nbsp;and&nbsp;Daniel Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> Jun 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Cicconi_2020" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Magmas are the Largest Repositories and Carriers of Earth’s Redox Processes</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Maria Rita Cicconi,&nbsp;Charles Le Losq,&nbsp;Roberto Moretti, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Daniel R. Neuville' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Elements</em> Jun 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Nienhuis_2020" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Effect of Ti4\mathplus on the structure of nepheline (NaAlSiO4) glass</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Emily T. Nienhuis,&nbsp;José Marcial,&nbsp;Thibaut Robine, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Charles Le Losq, Daniel R. Neuville, Martin C. Stennett, Neil C. Hyatt, John S. McCloy' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochimica et Cosmochimica Acta</em> Dec 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_63192319" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Raman spectroscopy study of C-O-H-N speciation in reduced basaltic glasses: Implications for reduced planetary mantles</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochimica et Cosmochimica Acta</em> Dec 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Timmerman_2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Primordial and recycled helium isotope signatures in the mantle transition zone</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          S. Timmerman,&nbsp;M. Honda,&nbsp;A. D. Burnham, and
+            <span class="more-authors" title="click to view 10 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '10 more authors' ? 'Y. Amelin, S. Woodland, D. G. Pearson, A. L. Jaques, C. Le Losq, V. C. Bennett, G. P. Bulanova, C. B. Smith, J. W. Harris, E. Tohver' : '10 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">10 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Science</em> Aug 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_60762642" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Observation of the Chemical Structure of Water up to the Critical Point by Raman Spectroscopic Analysis of Fluid Inclusions</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>The Journal of Physical Chemistry B</em> Aug 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_60762664" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Determination of the oxidation state of iron in Mid-Ocean Ridge basalt glasses by Raman spectroscopy</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>American Mineralogist</em> Aug 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Point defect populations of forsterite revealed by two-stage metastable hydroxylation experiments</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Michael C. Jollands,&nbsp;Peter M. E. Tollan, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Rhys Hawkins, Hugh St. C. O’Neill' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Contributions to Mineralogy and Petrology</em> May 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Anenburg_2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Perrhenate sodalite growth from alkali silicate melts by noble metal catalysis</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Michael Anenburg,&nbsp;and&nbsp;Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>SN Applied Sciences</em> Mar 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_60762727" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Synthesis and characterization of polycrystalline KAlSi3O8 hollandite [liebermannite]: Sound velocities vs. pressure to 13 GPa at room temperature</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Comptes Rendus Geoscience</em> Mar 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Hayward_2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Rheological Controls on Asperity Weakening During Earthquake Slip</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Kathryn S. Hayward,&nbsp;Rhys Hawkins,&nbsp;Stephen F. Cox, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Charles Le Losq' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Geophysical Research: Solid Earth</em> Dec 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2024" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Silicate Glasses</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Maria Rita Cicconi,&nbsp;G. Neville Greaves, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Daniel R. Neuville' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            Dec 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="B_nard_2018" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Low-Ca boninite formation by second-stage melting of spinel harzburgite residues at mature subduction zones: new evidence from veined mantle xenoliths from the West Bismarck Arc</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Antoine Bénard,&nbsp;Charles Le Losq,&nbsp;Oliver Nebel, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'Richard J. Arculus' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Contributions to Mineralogy and Petrology</em> Nov 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Charles_Le_Losq_38889587" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Percolation channels: a universal idea to describe the atomic structure and dynamics of glasses and melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Charles Le Losq,&nbsp;Daniel R. Neuville, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Wenlin Chen, Pierre Florian, Dominique Massiot, Zhongfu Zhou, George N. Greaves' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Scientific Reports</em> Nov 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2017" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">In situ study at high pressure and temperature of the environment of water in hydrous Na and Ca aluminosilicate melts and coexisting aqueous fluids</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Célia Dalou,&nbsp;and&nbsp;Bjorn O. Mysen</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Geophysical Research: Solid Earth</em> Jul 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2018" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Molecular structure, configurational entropy and viscosity of silicate melts: Link through the Adam and Gibbs theory of viscous flow</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;and&nbsp;Daniel R. Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Non-Crystalline Solids</em> May 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2016</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Weigel_2016" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Elastic moduli of XAlSiO4 aluminosilicate glasses: effects of charge-balancing cations</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Coralie Weigel,&nbsp;Charles Le Losq,&nbsp;Rémy Vialla, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Christelle Dupas, Sébastien Clément, Daniel R. Neuville, Benoit Rufflé' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Journal of Non-Crystalline Solids</em> Sep 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Labidi_2016" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Experimentally determined sulfur isotope fractionation between metal and silicate and implications for planetary differentiation</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          J. Labidi,&nbsp;A. Shahar,&nbsp;C. Le Losq, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'V.J. Hillgren, B.O. Mysen, J. Farquhar' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochimica et Cosmochimica Acta</em> Feb 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2016" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Intramolecular fractionation of hydrogen isotopes in silicate quenched melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq,&nbsp;B.O. Mysen,&nbsp;and&nbsp;G.D. Cody</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochemical Perspectives Letters</em> Feb 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2015</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Heili_2015" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Erratum to: The dependence of Raman defect bands in silica glasses on densification revisited</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Manon Heili,&nbsp;Bertrand Poumellec,&nbsp;Ekaterina Burov, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Cédric Gonnet, Charles Le Losq, Daniel R. Neuville, Matthieu Lancry' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>J Mater Sci</em> Nov 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Dalou_2015" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Solubility and solution mechanisms of chlorine and fluorine in aluminosilicate melts at high pressure and high temperature</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Celia Dalou,&nbsp;Charles Le Losq,&nbsp;Bjorn O. Mysen, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'George D. Cody' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>American Mineralogist</em> Oct 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Heili_2016" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">The dependence of Raman defect bands in silica glasses on densification revisited</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Manon Heili,&nbsp;Bertrand Poumellec,&nbsp;Ekaterina Burov, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Cédric Gonnet, Charles Le Losq, Daniel R. Neuville, Matthieu Lancry' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>J Mater Sci</em> Oct 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Dalou_2016" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">In situ study of the fractionation of hydrogen isotopes between aluminosilicate melts and coexisting aqueous fluids at high pressure and high temperature – Implications for the \updeltaD in magmatic processes</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Célia Dalou,&nbsp;Charles Le Losq,&nbsp;and&nbsp;Bjorn O. Mysen</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Earth and Planetary Science Letters</em> Sep 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2015" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Water and magmas: insights about the water solution mechanisms in alkali silicate melts from infrared, Raman, and 29Si solid-state NMR spectroscopies</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Bjorn O. Mysen,&nbsp;and&nbsp;George D. Cody</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Progress in Earth and Planetary Science</em> Aug 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2025" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Alkali influence on the water speciation and the environment of protons in silicate glasses revealed by 1H MAS NMR spectroscopy</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq,&nbsp;G. D. Cody,&nbsp;and&nbsp;B. O. Mysen</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>American Mineralogist</em> Feb 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2026" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Rheology of phonolitic magmas – the case of the Erebus lava lake</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Daniel R. Neuville,&nbsp;Roberto Moretti, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Philip R. Kyle, Clive Oppenheimer' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Earth and Planetary Science Letters</em> Feb 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le Losq2015" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Complex IR spectra of OH&lt;sup&gt;-&lt;/sup&gt; groups in silicate glasses: Implications for the use of the 4500 cm&lt;sup&gt;-1&lt;/sup&gt; IR peak as a marker of OH&lt;sup&gt;-&lt;/sup&gt; groups concentration</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq,&nbsp;G.D. Cody,&nbsp;and&nbsp;B.O. Mysen</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>American Mineralogist</em> Feb 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2014</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Moretti_2014" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">The amphoteric behavior of water in silicate melts from the point of view of their ionic-polymeric constitution</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Roberto Moretti,&nbsp;Charles Le Losq,&nbsp;and&nbsp;Daniel R. Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Chemical Geology</em> Feb 2014
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2014" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">The role of Al3\mathplus on rheology and structural changes in sodium silicate and aluminosilicate glasses and melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Daniel R. Neuville,&nbsp;Pierre Florian, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Grant S. Henderson, Dominique Massiot' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Geochimica et Cosmochimica Acta</em> Feb 2014
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2013</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2013" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Speciation and amphoteric behaviour of water in aluminosilicate melts and glasses: high-temperature Raman spectroscopy and reaction equilibria</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;Roberto Moretti,&nbsp;and&nbsp;Daniel R. Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>European Journal of Mineralogy</em> Oct 2013
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2027" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Effect of the Na/K mixing on the structure and the rheology of tectosilicate silica-rich melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;and&nbsp;Daniel R. Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Chemical Geology</em> May 2013
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2012</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2012" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Determination of water content in silicate glasses using Raman spectrometry: Implications for the study of explosive volcanism</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq,&nbsp;D. R. Neuville,&nbsp;R. Moretti, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'J. Roux' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>American Mineralogist</em> May 2012
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2011</h2>
+  <ol class="bibliography"></ol>
+
+  <h2 class="year">2010</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Le_Losq_2010" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">La spectrométrie Raman, un outil de choix pour étudier les volatils dissous dans un verre ou un silicate fondu : le cas de l’eau</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          C. Le Losq,&nbsp;and&nbsp;D.R. Neuville</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Matériaux &amp; Techniques</em> May 2010
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="Neuville_2010" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Structure et propriété des verres et des liquides : le rôle de l’aluminium</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          D. R. Neuville,&nbsp;P. Florian,&nbsp;C. Le Losq, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'D. Massiot' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Matériaux &amp; Techniques</em> May 2010
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
