@@ -1,4 +1,13 @@
-# al-folio
+# Charles Le Losq website
+
+This website is built using the al-folio theme.
+
+Please consult the website here:
+
+[Website Address](https://charlesll.github.io/)
+
+The following comes from the al-folio docs, I don't remove it for documentation for myself.
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [core_contributors]: https://img.shields.io/badge/core_contributors-3-orange.svg 'Number of core contributors'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
