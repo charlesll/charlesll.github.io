@@ -1,6 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"CRG":
+  url: https://comptes-rendus.academie-sciences.fr/geoscience
+  #color: "#00369f"
+
+"GCA":
+  url: https://www.sciencedirect.com/journal/geochimica-et-cosmochimica-acta
+  #color: "#00369f"
 
 "PhysRev":
   url: https://journals.aps.org/

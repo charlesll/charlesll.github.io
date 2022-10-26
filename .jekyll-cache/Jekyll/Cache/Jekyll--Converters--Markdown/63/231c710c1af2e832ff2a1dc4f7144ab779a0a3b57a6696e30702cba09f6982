@@ -1,5 +1,4 @@
-I"@
-<!-- _pages/publications.md -->
+I"�:<!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
@@ -36,9 +35,21 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Bénard_Le</span> <span class="err">Losq_Müntener_Robyr_Nebel_Arculus_Ionov_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Spinel</span> <span class="err">Harzburgite-Derived</span> <span class="err">Silicate</span> <span class="err">Melts</span> <span class="err">Forming</span> <span class="err">Sulfide-Bearing</span> <span class="err">Orthopyroxenite</span> <span class="err">in</span> <span class="err">the</span> <span class="err">Lithosphere.</span> <span class="err">Part</span> <span class="err">1:</span> <span class="err">Partition</span> <span class="err">Coefficients</span> <span class="err">and</span> <span class="err">Volatile</span> <span class="err">Evolution</span> <span class="err">Accompanying</span> <span class="err">Fluid-</span> <span class="err">and</span> <span class="err">Redox-Induced</span> <span class="err">Sulfide</span> <span class="err">Formation</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {10},</span>
+  <span class="c">issn = {2296-6463},</span>
+  <span class="c">url = {https://www.frontiersin.org/articles/10.3389/feart.2022.867979},</span>
+  <span class="c">journal = {Frontiers in Earth Science},</span>
+  <span class="c">author = {Bénard, A. and Le Losq, C. and Müntener, O. and Robyr, M. and Nebel, O. and Arculus, R. J. and Ionov, D. A.},</span>
+  <span class="c">year = {2022}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
@@ -76,15 +87,27 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Dalou_Le</span> <span class="err">Losq_Füri_Caumon_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Redox</span> <span class="err">controls</span> <span class="err">on</span> <span class="err">H</span> <span class="err">and</span> <span class="err">N</span> <span class="err">speciation</span> <span class="err">and</span> <span class="err">intermolecular</span> <span class="err">isotopic</span> <span class="err">fractionations</span> <span class="err">in</span> <span class="err">aqueous</span> <span class="err">fluids</span> <span class="err">at</span> <span class="err">high</span> <span class="err">pressure</span> <span class="err">and</span> <span class="err">high</span> <span class="err">temperature:</span> <span class="err">Insights</span> <span class="err">from</span> <span class="err">in-situ</span> <span class="err">experiments</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {10},</span>
+  <span class="c">issn = {2296-6463},</span>
+  <span class="c">url = {https://www.frontiersin.org/articles/10.3389/feart.2022.973802},</span>
+  <span class="c">journal = {Frontiers in Earth Science},</span>
+  <span class="c">author = {Dalou, Celia and Le Losq, Charles and Füri, Evelyn and Caumon, Marie-Camille},</span>
+  <span class="c">year = {2022}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">CRG</abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://comptes-rendus.academie-sciences.fr/geoscience">CRG</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="Le Losq_Mysen_Cody_2022" class="col-sm-8">
@@ -104,9 +127,24 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://comptes-rendus.academie-sciences.fr/geoscience/item/CRGEOS_2022__354_S1_A7_0/" class="btn btn-sm z-depth-0" role="button">HTML</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Le</span> <span class="err">Losq_Mysen_Cody_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Water</span> <span class="err">solution</span> <span class="err">mechanism</span> <span class="err">in</span> <span class="err">calcium</span> <span class="err">aluminosilicate</span> <span class="err">glasses</span> <span class="err">and</span> <span class="err">melts:</span> <span class="err">insights</span> <span class="err">from</span> <span class="err">in</span> <span class="err">and</span> <span class="err">ex</span> <span class="err">situ</span> <span class="err">Raman</span> <span class="err">and</span> <span class="err">29</span> <span class="err">NMR</span> <span class="err">spectroscopy</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {354},</span>
+  <span class="c">issn = {1778-7025},</span>
+  <span class="c">doi = {10.5802/crgeos.127},</span>
+  <span class="c">number = {S1},</span>
+  <span class="c">journal = {Comptes Rendus. Géoscience},</span>
+  <span class="c">author = {Le Losq, C. and Mysen, Bjorn O. and Cody, George D.},</span>
+  <span class="c">year = {2022},</span>
+  <span class="c">pages = {1–27},</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
@@ -144,9 +182,25 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Le</span> <span class="err">Losq_Tarrago_Blanc_Georges_Hennet_Zanghi_Lelong_Pannefieu_Neuville_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Méthodes</span> <span class="err">d’analyse</span> <span class="err">des</span> <span class="err">verres</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {110},</span>
+  <span class="c">issn = {0032-6895, 1778-3771},</span>
+  <span class="c">doi = {10.1051/mattech/2022041},</span>
+  <span class="c">number = {4},</span>
+  <span class="c">journal = {Matériaux &amp; Techniques},</span>
+  <span class="c">author = {Le Losq, Charles and Tarrago, Mariona and Blanc, Wilfried and Georges, Peggy and Hennet, Louis and Zanghi, Didier and Lelong, Gérald and Pannefieu, Salomé and Neuville, Daniel R.},</span>
+  <span class="c">editor = {Capilla, Xavier and Angeli, Frédéric and Neuville, Daniel R.},</span>
+  <span class="c">year = {2022},</span>
+  <span class="c">pages = {403},</span>
+  <span class="c">language = {fr}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
@@ -184,9 +238,27 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Miller_ONeill_Berry_Le</span> <span class="err">Losq_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Fractional</span> <span class="err">crystallisation</span> <span class="err">of</span> <span class="err">eclogite</span> <span class="err">during</span> <span class="err">the</span> <span class="err">birth</span> <span class="err">of</span> <span class="err">a</span> <span class="err">Hawaiian</span> <span class="err">Volcano</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {13},</span>
+  <span class="c">rights = {2022 The Author(s)},</span>
+  <span class="c">issn = {2041-1723},</span>
+  <span class="c">doi = {10.1038/s41467-022-30108-x},</span>
+  <span class="c">number = {11},</span>
+  <span class="c">journal = {Nature Communications},</span>
+  <span class="c">publisher = {Nature Publishing Group},</span>
+  <span class="c">author = {Miller, Laura A. and O’Neill, Hugh St C. and Berry, Andrew J. and Le Losq, Charles},</span>
+  <span class="c">year = {2022},</span>
+  <span class="c">month = may,</span>
+  <span class="c">pages = {2946},</span>
+  <span class="c">language = {en}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
@@ -212,15 +284,28 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inbook</span><span class="p">{</span><span class="nl">Neuville_Le</span> <span class="err">Losq_2022,</span>
+  <span class="err">series</span> <span class="err">=</span> <span class="err">{Reviews</span> <span class="err">in</span> <span class="err">Mineralogy</span> <span class="err">&amp;</span> <span class="err">Geochemistry</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">title = {Link between Medium and Long-range Order and Macroscopic Properties of Silicate Glasses and Melts},</span>
+  <span class="c">volume = {87},</span>
+  <span class="c">booktitle = {Geological Melts},</span>
+  <span class="c">author = {Neuville, D. R. and Le Losq, C.},</span>
+  <span class="c">year = {2022},</span>
+  <span class="c">pages = {105–162},</span>
+  <span class="c">collection = {Reviews in Mineralogy &amp; Geochemistry}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
+        <div class="col-sm-2 abbr"><abbr class="badge">RiMG</abbr></div>
 
         <!-- Entry bib key -->
         <div id="Tarrago_Le Losq_Robine_Reguer_Thiaudière_Neuville_2022" class="col-sm-8">
@@ -252,9 +337,24 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Tarrago_Le</span> <span class="err">Losq_Robine_Reguer_Thiaudière_Neuville_2022,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Redox-induced</span> <span class="err">crystallisation</span> <span class="err">in</span> <span class="err">Ti-bearing</span> <span class="err">glass-forming</span> <span class="err">melts:</span> <span class="err">A</span> <span class="err">Ti</span> <span class="err">K-edge</span> <span class="err">XANES</span> <span class="err">study</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {319},</span>
+  <span class="c">issn = {0167577X},</span>
+  <span class="c">doi = {10.1016/j.matlet.2022.132296},</span>
+  <span class="c">journal = {Materials Letters},</span>
+  <span class="c">author = {Tarrago, Mariona and Le Losq, Charles and Robine, Thibaut and Reguer, Solenn and Thiaudière, Dominique and Neuville, Daniel R.},</span>
+  <span class="c">year = {2022},</span>
+  <span class="c">month = jul,</span>
+  <span class="c">pages = {132296},</span>
+  <span class="c">language = {en}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li></ol>
@@ -410,7 +510,7 @@
 </li>
 <li><!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
+        <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://www.sciencedirect.com/journal/geochimica-et-cosmochimica-acta">GCA</a></abbr></div>
 
         <!-- Entry bib key -->
         <div id="Le Losq_Baldoni_Valentine_Neuville_2021" class="col-sm-8">
@@ -442,9 +542,19 @@
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://www.sciencedirect.com/science/article/pii/S0016703721005007" class="btn btn-sm z-depth-0" role="button">HTML</a>
           </div>
 
-          
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">Le</span> <span class="err">Losq_Baldoni_Valentine_Neuville_2021,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Modeling</span> <span class="err">the</span> <span class="err">properties</span> <span class="err">of</span> <span class="err">melts</span> <span class="err">along</span> <span class="err">calc-alkaline</span> <span class="err">and</span> <span class="err">alkaline</span> <span class="err">magmatic</span> <span class="err">differentiation</span> <span class="err">trends</span> <span class="err">using</span> <span class="err">deep</span> <span class="err">learning</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">author = {Le Losq, C. and Baldoni, B. and Valentine, A. P. and Neuville, D. R.},</span>
+  <span class="c">year = {2021},</span>
+  <span class="c">month = dec,</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
         </div>
       </div>
 </li>
