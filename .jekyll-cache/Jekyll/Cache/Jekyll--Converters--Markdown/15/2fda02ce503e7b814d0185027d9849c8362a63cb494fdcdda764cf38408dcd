@@ -1,5 +1,146 @@
-I"�Z<!-- _pages/publications.md -->
+I"�z<!-- _pages/publications.md -->
 <div class="publications">
+  <h2 class="year">2023</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Losq_Baldoni_2023" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Machine learning modeling of the atomic structure and physical properties of alkali and alkaline-earth aluminosilicate glasses and melts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Charles Le Losq,&nbsp;and&nbsp;Barbara Baldoni</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> Apr 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://arxiv.org/abs/2304.12123" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Losq_Baldoni_2023</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Machine learning modeling of the atomic structure and physical properties of alkali and alkaline-earth aluminosilicate glasses and melts}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.48550/arXiv.2304.12123}</span><span class="p">,</span>
+  <span class="na">note</span> <span class="p">=</span> <span class="s">{arXiv:2304.12123 [cond-mat]}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{arXiv:2304.12123}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Losq, Charles Le and Baldoni, Barbara}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">apr</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">ChemGeol</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Verdurme_Le Losq_Chevrel_Pannefieu_Médard_Berthod_Komorowski_Bachèlery_Neuville_Gurioli_2023" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Viscosity of crystal-free silicate melts from the active submarine volcanic chain of Mayotte</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Pauline Verdurme,&nbsp;<em>Charles Le Losq</em>,&nbsp;Oryaëlle Chevrel, and
+            <span class="more-authors" title="click to view 7 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '7 more authors' ? 'Salomé Pannefieu, Etienne Médard, Carole Berthod, Jean-Christophe Komorowski, Patrick Bachèlery, Daniel R. Neuville, Lucia Gurioli' : '7 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">7 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Chemical Geology</em> Mar 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S0009254123000268" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Verdurme_Le</span> <span class="err">Losq_Chevrel_Pannefieu_Médard_Berthod_Komorowski_Bachèlery_Neuville_Gurioli_2023,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Viscosity</span> <span class="err">of</span> <span class="err">crystal-free</span> <span class="err">silicate</span> <span class="err">melts</span> <span class="err">from</span> <span class="err">the</span> <span class="err">active</span> <span class="err">submarine</span> <span class="err">volcanic</span> <span class="err">chain</span> <span class="err">of</span> <span class="err">Mayotte</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {620},</span>
+  <span class="c">issn = {00092541},</span>
+  <span class="c">doi = {10.1016/j.chemgeo.2023.121326},</span>
+  <span class="c">journal = {Chemical Geology},</span>
+  <span class="c">author = {Verdurme, Pauline and Le Losq, Charles and Chevrel, Oryaëlle and Pannefieu, Salomé and Médard, Etienne and Berthod, Carole and Komorowski, Jean-Christophe and Bachèlery, Patrick and Neuville, Daniel R. and Gurioli, Lucia},</span>
+  <span class="c">year = {2023},</span>
+  <span class="c">month = mar,</span>
+  <span class="c">pages = {121326},</span>
+  <span class="c">language = {en}</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">Frontiers</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Le Losq_Sossi_2023" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Atomic structure and physical properties of peridotite glasses at 1 bar</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <em>Charles Le Losq</em>,&nbsp;and&nbsp;Paolo A. Sossi</div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Frontiers in Earth Science</em> Mar 2023
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://www.frontiersin.org/articles/10.3389/feart.2023.1040750" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Le</span> <span class="err">Losq_Sossi_2023,</span>
+  <span class="err">title</span> <span class="err">=</span> <span class="err">{Atomic</span> <span class="err">structure</span> <span class="err">and</span> <span class="err">physical</span> <span class="err">properties</span> <span class="err">of</span> <span class="err">peridotite</span> <span class="err">glasses</span> <span class="err">at</span> <span class="err">1</span> <span class="err">bar</span><span class="p">}</span><span class="c">,</span>
+  <span class="c">volume = {11},</span>
+  <span class="c">issn = {2296-6463},</span>
+  <span class="c">url = {https://www.frontiersin.org/articles/10.3389/feart.2023.1040750},</span>
+  <span class="c">journal = {Frontiers in Earth Science},</span>
+  <span class="c">author = {Le Losq, Charles and Sossi, Paolo A.},</span>
+  <span class="c">year = {2023},</span>
+<span class="c">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
@@ -30,7 +171,7 @@
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em>Frontiers in Earth Science</em> 2022
+            <em>Frontiers in Earth Science</em> Mar 2022
           </div>
         
           <!-- Links/Buttons -->
@@ -82,7 +223,7 @@
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em>Frontiers in Earth Science</em> 2022
+            <em>Frontiers in Earth Science</em> Mar 2022
           </div>
         
           <!-- Links/Buttons -->
@@ -122,7 +263,7 @@
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em>Comptes Rendus. Géoscience</em> 2022
+            <em>Comptes Rendus. Géoscience</em> Mar 2022
           </div>
         
           <!-- Links/Buttons -->
@@ -177,7 +318,7 @@
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em>Matériaux &amp; Techniques</em> 2022
+            <em>Matériaux &amp; Techniques</em> Mar 2022
           </div>
         
           <!-- Links/Buttons -->

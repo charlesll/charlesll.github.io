@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-30 15:59:00-0400
+date: 2023-06-21 15:59:00-0400
 inline: true
 ---
 
-:sparkles: New paper out in Frontiers! :sparkles: see [Publications](publications)
+:sparkles: arXiv preprint on i-Melt V2 :sparkles: see [Publications](publications) and check [github](https://github.com/charlesll/i-melt)
