@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-30 15:59:00-0400
+date: 2024-02-01 15:59:00-0400
 inline: true
 ---
 
- <a href="https://medium.com/pytorch/from-windows-to-volcanoes-how-pytorch-is-helping-us-understand-glass-8720d480f4f2">Check our Medium post</a> for info about [i-Melt](repositories) :smile:
+We present new data regarding [the oxidation state of Ti in silicate melts](https://doi.org/10.1016/j.gca.2023.11.014) in GCA! :smile:
