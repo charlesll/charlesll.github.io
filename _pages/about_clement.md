@@ -1,1 +1,3 @@
-Clément Ferraina works as a Research Engineer on the IVIMAP project, which aims at better constraining the properties of silicate melts at high pressure using diamond anvil cell experiments.
+Clément Ferraina works as a Research Engineer in my group. His work aims at better constraining the properties of silicate melts at high pressure, in particular using diamond anvil cell experiments.
+
+He has a strong experience working as an engineer (2013, 2014 at Georessources Nancy, 2019 at CRGP Nancy and ISTO Orléans, since 2023 at IPGP). He is expert in experimental petrology and geochemistry (sdample synthesis at high temperature and high pressure, including piston-cylinder, autoclave and diamond cell apparatus), and the related analysis methods of experimental and natural samples (e.g. MEB, TEM, Raman/Ir spectroscopy, LA-ICP-MS).
