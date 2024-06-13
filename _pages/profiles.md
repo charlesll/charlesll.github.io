@@ -18,7 +18,7 @@ profiles:
       Équipe Cosmochimie, Astrophysique et Géophysique Expérimentale
       IPGP
   - align: left
-    image: clement.jpeg
+    image: clement.jpg
     content: about_clement.md
     image_circular: true # crops the image to make it circular
     more_info: >
