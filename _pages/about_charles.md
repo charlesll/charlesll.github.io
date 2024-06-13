@@ -1,0 +1,1 @@
+Charles Le Losq is a Maître de Conférence working at IPGP.
