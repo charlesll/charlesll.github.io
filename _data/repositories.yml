@@ -4,11 +4,12 @@ github_users:
 github_repos:
   - charlesll/rampy
   - charlesll/i-melt
+  - charlesll/gpvisc
   - charlesll/Spectra.jl
   - charlesll/gcvspline
   - charlesll/gcvspl
   - charlesll/iron-magma
-  - charlesll/water-magma
+  - charlesll/water-speciation-magma
   - charlesll/sulfur-magma
   - charlesll/chosetto
   - charlesll/boni-and-class

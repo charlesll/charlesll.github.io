@@ -33,6 +33,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Junior member
+      institution: Institut Universitaire de France
+      year: 2025 - 2029
     - title: Maître de Conférences (Assist. Prof.)
       institution: Institut de physique du globe de Paris, France
       year: 2019 - present
@@ -57,6 +60,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/charlesll/gpvisc">gpvisc</a>
+      year: 2025-now
+      description: Python library for Gaussian Process - Artificial Neural Network modelling of magma viscosity.
     - title: <a href="https://github.com/charlesll/i-melt">i-Melt</a>
       year: 2021-now
       description: A machine learning model of the properties of aluminosilicate melts and glasses.

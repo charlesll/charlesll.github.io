@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-03-20 15:59:00-0400
+date: 2025-02-28 15:59:00-0400
 inline: true
 ---
 
-:sparkles: Check our paper on peridotite melt properties and magma oceans :sparkles: see [Publications](publications)
+:sparkles: New Model Predicts Magma Viscosity on Lava Planets! Research suggests K2-141b has a partially molten mantle. :sparkles: see [the paper](https://doi.org/10.1016/j.epsl.2025.119287)

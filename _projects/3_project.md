@@ -2,7 +2,7 @@
 layout: page
 title: Rampy
 description: A Python library that aims at helping processing spectroscopic data, such as Raman, Infrared or XAS spectra.
-img: assets/img/atoms_barbara.webp
+img: assets/img/Rampy.png
 importance: 1
 category: work
 related_publications: false
