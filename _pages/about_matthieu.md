@@ -1,2 +1,3 @@
 Matthieu Nougaret is a Ph.D. student that works on using machine learning and geophysical/geochemical data to try predicting the next eruptions fo the Piton de la Fournaise volcano.
 
+After a Master's degree in Geology, Matthieu started his Ph.D. under the supervision of Aline Peltier, Lise Retailleau and myself, working on time series processing with machine learning algorithms. His Ph.D. focuses on understanding if and how machine learning can help us decipher pre-eruptive signals in geophysical and geochemical time series acquired at volcano observatories. He is working on the well monitored, very active [Piton de la Fournaise](https://www.ipgp.fr/observation/ovs/ovpf/) volcano.
