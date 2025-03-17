@@ -86,7 +86,7 @@ keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: charles-le-losq # your LinkedIn user name
-mastodon_username: charlesll # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: fosstodon.org/@charlesll # your mastodon instance+username in the format instance.tld/@username
 medium_username: charles.lelosq # your Medium username
 orcid_id: 0000-0001-8941-9411 # your ORCID ID
 osf_id: # your OSF ID

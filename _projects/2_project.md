@@ -23,7 +23,7 @@ An example of that is our work with Mat Valetich, published in [Journal of Petro
 
 # Predicting the properties of magmas and glasses
 
-Models such as i-Melt (see [the related project page](4_project.md)) leverage the power of ML to predict the properties of materials. They can be used then in many application, including fluid dynamic simulations, petrological models, etc.
+Models such as [i-Melt](https://charlesll.github.io/projects/4_project.md) or [gpvisc](https://charlesll.github.io/projects/5_project/) leverage the power of ML to predict the properties of materials. They can be used then in many application, including fluid dynamic simulations, petrological models, etc.
 
 # Treatment and interpretation of spectroscopic data
 
@@ -32,4 +32,4 @@ Processing Raman, Infrared, NMR... spectroscopic data is often time consuming an
 Our work shows that :
 - leveraging ML can allow quantifying the chemical composition, including iron oxidation state, of glasses from their Raman spectra [(Le Losq et al., 2019)](10.2138/am-2019-6887);
 - using methods such as PCA or NMF allow retrieving meaningful spectral components [(Jollands et al. 2021)](https://doi.org/10.5194/ejm-33-113-2021);
-- deep learning models such as [i-Melt](4_project.md) can even predict spectra.
+- deep learning models such as [i-Melt](https://charlesll.github.io/projects/4_project.md) can even predict spectra.
