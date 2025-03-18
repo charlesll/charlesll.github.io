@@ -1,1 +1,1 @@
-Charles Le Losq is a Maître de Conférence working at IPGP.
+I am a Maître de Conférence working at IPGP, Paris, France. See my [cv page](https://charlesll.github.io/cv/) for details!
