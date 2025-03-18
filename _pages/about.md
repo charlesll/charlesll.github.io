@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a geoscientist passionate about magmatism, volcanology, geochemistry, and machine learning. 
 
-Since 2019, I work as a Maître de Conférences (Assistant Professor) at IPGP in Paris, France, on various questions related to those themes. 
+I work as a Maître de Conférences (Assistant Professor) at IPGP in Paris, France, on various questions related to those themes. I also am a Junior member of the Institut Universitaire de France.
 
-In addition to those, I also am interested in computer programming, optimisation and machine learning, and their use to solve problems related to volcanic systems and the Earth.
+In addition to my interests in the field of geosciences, I am interested in computers, programming, optimisation and machine learning.

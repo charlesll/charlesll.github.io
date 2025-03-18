@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of Charles's group
 nav: true
 nav_order: 6
 
@@ -18,11 +18,11 @@ profiles:
       Équipe Cosmochimie, Astrophysique et Géophysique Expérimentale
       IPGP
   - align: left
-    image: clement.jpg
-    content: about_clement.md
+    image: salome.jpg
+    content: about_salome.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      Clément Ferraina
+      Salomé Pannefieu
       Équipe Cosmochimie, Astrophysique et Géophysique Expérimentale
       IPGP
   - align: right
