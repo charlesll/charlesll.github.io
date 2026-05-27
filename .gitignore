@@ -11,3 +11,6 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# Ignore pictures not yet posted
+assets/img/2025_lanzarote/
