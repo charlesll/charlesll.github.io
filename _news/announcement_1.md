@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-06-10 15:59:00-0400
+date: 2026-06-01 10:00:00-0400
 inline: true
 ---
 
-:sparkles: [New paper about the properties of melts in JNCS](https://doi.org/10.1016/j.jnoncrysol.2024.123056), by my Ph.D. student Salomé Pannefieu! :sparkles: see [Publications](publications). [A preprint is also available on SSNR.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4760562)
+:sparkles: [New blog post on Medium about forecasting volcanic eruptions!](https://medium.com/@charles.lelosq/can-machine-learning-help-predict-volcanic-eruptions-0af3e7d29dc6)

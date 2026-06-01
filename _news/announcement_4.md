@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-10 15:59:00-0400
+date: 2026-04-07 15:59:00-0400
 inline: true
 ---
 
-:sparkles: New paper out in JNCS presenting i-Melt V2 :sparkles: see [Publications](publications)
+[Spectra](https://github.com/charlesll/Spectra.jl) v2.1.1 is out! :sparkles:
