@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of Charles's group
+title: People
+description: Members of Charles's group
 nav: true
 nav_order: 6
 
@@ -18,19 +18,22 @@ profiles:
       Équipe Cosmochimie, Astrophysique et Géophysique Expérimentale
       IPGP
   - align: left
-    image: salome.jpg
-    content: about_salome.md
+    image: 
+    content: 
     image_circular: true # crops the image to make it circular
     more_info: >
-      Salomé Pannefieu
+      Maxime Soares Correia
       Équipe Cosmochimie, Astrophysique et Géophysique Expérimentale
       IPGP
-  - align: right
-    #image: matthieu.jpeg
-    content: about_matthieu.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      Matthieu Nougaret
-      Équipe Systèmes Volcaniques
-      IPGP
+
+alumni:
+  # Add past members here, e.g.:
+  - name: Matthieu Nougaret
+    info: PhD student (2022-2025)
+  - name: Salomé Pannefieu
+    info: PhD Student (2020-2024) and research engineer (project IVIMAP, 2025)
+  - name: Clément Ferraina
+    info: Research engineer  (project IVIMAP, 2023-2024)
+  # - name: Jane Doe
+  #   info: PhD student (2020–2024), now at XYZ University
 ---

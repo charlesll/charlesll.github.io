@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Maître de Conférences at <a href='www.ipgp.fr/'>IPGP</a>, <a href='https://u-paris.fr/en/'>Université Paris Cité</a>
 

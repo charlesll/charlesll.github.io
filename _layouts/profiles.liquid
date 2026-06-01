@@ -4,6 +4,7 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
+      <h2>Active Members</h2>
       {% for profile in page.profiles %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
@@ -31,6 +32,19 @@ layout: page
           {% endif %}
         </div>
       {% endfor %}
+    {% endif %}
+
+    {% if page.alumni %}
+      <hr>
+      <h2>Alumni</h2>
+      <ul class="alumni-list">
+        {% for alumnus in page.alumni %}
+          <li>
+            <strong>{{ alumnus.name }}</strong>
+            {% if alumnus.info %} — {{ alumnus.info }}{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
     {% endif %}
   </article>
 </div>
